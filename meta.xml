@@ -1,0 +1,7 @@
+<meta>
+	<info author="NanoBob" type="script" />
+	<script src="client.lua" type="client" />
+	<file src="shader.fx" />
+	<file src="images/dummy.png" />
+	<file src="images/none.png" />
+</meta>
